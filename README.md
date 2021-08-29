@@ -23,3 +23,5 @@
 |  7   | [Naver Review Sentiment Analysis](https://github.com/thk-lightman/AIFFEL_LMS_MY/blob/master/%5BE-07%5D%20Naver%20Review%20Sentiment%20Analysis.ipynb) | NLP, Sentiment Analysis |  ★   |
 |  8   | [Shallow Focus With Computation](https://github.com/thk-lightman/AIFFEL_LMS_MY/blob/master/%5BE-08%5D%20Shallow%20Focus%20With%20Computation.ipynb) |     Computer Vision     |      |
 |  9   | [Recommend Movies](https://github.com/thk-lightman/AIFFEL_LMS_MY/blob/master/%5BE-09%5D%20Recommend%20Movies.ipynb) |  Recommendation System  |  ★   |
+|  10  |                      [Summarize News]()                      |           NLP           |      |
+|  11  |            [Pneumonia Classification with CNN]()             |     Computer Vision     |      |
