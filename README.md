@@ -2,7 +2,7 @@
 
 # AIFFEL_LMS_MY
 
-- 출처: AIFFEL LMS Fundamentals and Explorations
+- 출처: AIFFEL LMS Fundamentals and Exploration s 
 
 ## Fundamentals
 
